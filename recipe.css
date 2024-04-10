@@ -1,0 +1,36 @@
+#center{
+    text-align: center;
+ }
+
+.double { 
+    border : 10px double red;
+ }
+ div{
+   text-align: center;
+ }
+
+ table{
+    background : #fffacd;
+ }
+ caption{
+    color: red;
+ }
+ th{
+    border : solid 3px red;
+ }
+ tr{
+    border : solid 3px red;
+}
+
+.flex {
+    display: flex; /*横並び*/
+  }
+  .flex .image {
+    margin: 0;
+    padding: 0;
+   
+  }
+  .flex .text {
+    margin: 0;
+    padding: 0;
+  }
